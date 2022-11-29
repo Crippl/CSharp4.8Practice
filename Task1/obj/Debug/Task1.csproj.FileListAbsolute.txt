@@ -1,0 +1,7 @@
+D:\Programs\VSProjects\CSharp4.8Practice\Task1\bin\Debug\Task1.exe.config
+D:\Programs\VSProjects\CSharp4.8Practice\Task1\bin\Debug\Task1.exe
+D:\Programs\VSProjects\CSharp4.8Practice\Task1\bin\Debug\Task1.pdb
+D:\Programs\VSProjects\CSharp4.8Practice\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Programs\VSProjects\CSharp4.8Practice\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Programs\VSProjects\CSharp4.8Practice\Task1\obj\Debug\Task1.exe
+D:\Programs\VSProjects\CSharp4.8Practice\Task1\obj\Debug\Task1.pdb
